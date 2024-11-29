@@ -1,3 +1,3 @@
 # Task
-Competing a Task requires focous, efffort<brk>
+Competing a Task requires focous, efffort and <brk>
 effective time mangement
